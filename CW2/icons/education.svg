@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="113.689 178.254 30 23" width="30" height="23" xmlns="http://www.w3.org/2000/svg">
-  <polygon class="st0" points="16,4 1,12 16,20 31,12 " transform="matrix(1, 0, 0, 1, 112.688515, 174.254089)" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(95, 15, 64);"/>
-  <path class="st0" d="M7,15.2V22c0,2.2,4,5,9,5c5,0,9-2.8,9-5v-6.8" transform="matrix(1, 0, 0, 1, 112.688515, 174.254089)" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(95, 15, 64);"/>
-  <line class="st0" x1="31" y1="12" x2="31" y2="25" transform="matrix(1, 0, 0, 1, 112.688515, 174.254089)" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(95, 15, 64);"/>
+<svg viewBox="104.672 308.036 30 23" width="30" height="23" xmlns="http://www.w3.org/2000/svg">
+  <polygon class="st0" points="119.547 309.209 106.036 316.414 119.547 323.619 133.057 316.414" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(95, 15, 64);"/>
+  <path class="st0" d="M 111.441 319.294 L 111.441 325.42 C 111.441 327.401 115.043 329.922 119.547 329.922 C 124.05 329.922 127.653 327.401 127.653 325.42 L 127.653 319.294" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(95, 15, 64);"/>
+  <line class="st0" x1="133.057" y1="316.414" x2="133.057" y2="328.121" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(95, 15, 64);"/>
 </svg>

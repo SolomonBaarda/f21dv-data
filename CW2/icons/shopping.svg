@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="162.049 273.016 26 25" width="26" height="25" xmlns="http://www.w3.org/2000/svg">
-  <path class="st0" d="M 188.049 277.016 L 186.049 288.016 L 168.449 290.816 C 167.649 290.916 167.049 291.616 167.049 292.416 C 167.049 293.316 167.749 294.016 168.649 294.016 L 186.049 294.016" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
-  <path class="st0" d="M 164.049 273.016 C 166.349 273.016 167.849 275.416 166.849 277.516 L 166.049 279.016 L 170.049 290.016" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
-  <line class="st0" x1="162.049" y1="273.016" x2="164.049" y2="273.016" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
-  <line class="st0" x1="166.049" y1="279.016" x2="187.049" y2="279.016" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
-  <circle class="st0" cx="170.049" cy="296.016" r="2" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
-  <circle class="st0" cx="183.049" cy="296.016" r="2" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
+<svg viewBox="162.049 273.016 26 25" xmlns="http://www.w3.org/2000/svg">
+  <path class="st0" d="M 186.725 277.805 L 184.95 287.566 L 169.334 290.05 C 168.624 290.139 168.091 290.76 168.091 291.47 C 168.091 292.269 168.712 292.89 169.511 292.89 L 184.95 292.89" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
+  <path class="st0" d="M 165.429 274.256 C 167.47 274.256 168.801 276.386 167.914 278.249 L 167.204 279.58 L 170.753 289.34" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
+  <line class="st0" x1="163.655" y1="274.256" x2="165.429" y2="274.256" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
+  <line class="st0" x1="167.204" y1="279.58" x2="185.838" y2="279.58" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
+  <circle class="st0" cx="170.753" cy="294.664" r="1.775" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
+  <circle class="st0" cx="182.288" cy="294.664" r="1.775" style="fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; stroke-width: 2px; stroke: rgb(44, 110, 73);"/>
 </svg>
